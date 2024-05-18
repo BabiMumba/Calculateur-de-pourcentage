@@ -2,11 +2,11 @@
 
 ## 21km120 
 ## 21TB542
-=================================================================
-# Calculateur de pourcentage                                    =
-                                                                =
-2 eme Projet selectionner pour la realisation:                  =
-                                                                =
+## =================================================================
+# Calculateur de pourcentage                                    
+                                                                
+2 eme Projet selectionner pour la realisation:                  
+                                                                
 ## Fonctionnement
 
 on demande a l'utilisateur d'entrer :
